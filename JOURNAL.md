@@ -10,3 +10,10 @@ This is my journal of the design and building process of **Super small IR sender
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/484).
 
 
+## 10/15/2025 - Finished schematic  
+
+I had the idea and gathered all the parts. Then I looked for a library for the SSD1306 display I got, but unfortunately couldn't find one. So I created the symbol and footprint myself. There was no library for the IR transmitter either, so I created the symbol and footprint again by measuring and reading datasheets. Next I'm going to create the layout and route the circuit board.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQwMywicHVyIjoiYmxvYl9pZCJ9fQ==--c864fa11973f8efe8c1f9512e4d8f394f35b6f50/image.png)
+  
+
