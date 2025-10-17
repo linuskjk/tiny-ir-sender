@@ -24,3 +24,11 @@ I aligned all the components the way I wanted them, which was quite stressful si
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0e6bdcf57225271b0c9c4714e076272a0745d62d/image.png)
   
 
+## 10/17/2025 - Optimized and ordered PCB  
+
+After adjusting some traces and ensuring that all components fit perfectly, I exported all the Gerber and drilling files. I then went to PCBway, configured all the PCB settings, and sent it in for review. After a few minutes, it was approved, and I ordered it.
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--15d3730106009423d8cadfb5053345958a82cb64/image.png)
+  
+
