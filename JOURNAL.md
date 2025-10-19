@@ -32,3 +32,12 @@ After adjusting some traces and ensuring that all components fit perfectly, I ex
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--15d3730106009423d8cadfb5053345958a82cb64/image.png)
   
 
+## 10/19/2025 - Read IR data of the remote and created database  
+
+I got myself an Arduino Uno and an IR receiver module and read each command and its raw data.
+
+After that, I saved all the information in a TXT file for easier reading. Next, I'll program the code to select between the individual commands on the display.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNywicHVyIjoiYmxvYl9pZCJ9fQ==--31660a10fd49cb44957eaae759f66a1db17728b9/image.png)
+  
+
