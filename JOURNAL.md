@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Super small IR sender**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/484).
-
-
 ## 10/15/2025 - Finished schematic  
 
 I had the idea and gathered all the parts. Then I looked for a library for the SSD1306 display I got, but unfortunately couldn't find one. So I created the symbol and footprint myself. There was no library for the IR transmitter either, so I created the symbol and footprint again by measuring and reading datasheets. Next I'm going to create the layout and route the circuit board.
@@ -39,5 +35,20 @@ I got myself an Arduino Uno and an IR receiver module and read each command and 
 After that, I saved all the information in a TXT file for easier reading. Next, I'll program the code to select between the individual commands on the display.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNywicHVyIjoiYmxvYl9pZCJ9fQ==--31660a10fd49cb44957eaae759f66a1db17728b9/image.png)
+  
+
+## 10/20/2025 - Build a prototype  
+
+I took an Arduino Uno, an ssd1306 display, an IR transmitter and some buttons. Then I built a prototype of the project and programmed the first display layouts. At the moment you still can't control anything with the keys, so this will be the next step.
+
+
+![IMG_0476.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--bfd59e0da6268b2fdc853be01867113f67e825a0/IMG_0476.jpeg)
+
+![IMG_0478.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--2d690ae7af36549023c7447e11e7fc04c6e247d4/IMG_0478.jpeg)
+
+
+
+
+
   
 
