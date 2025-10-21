@@ -52,3 +52,16 @@ I took an Arduino Uno, an ssd1306 display, an IR transmitter and some buttons. T
 
   
 
+## 10/21/2025 - Programmed display   
+
+Now I implemented the control with the buttons, so you can switch between commands and categories to choose the commands you want. Button and one and three to go up and down in the lists and button two to select categories and commands.
+
+
+![IMG_0496.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkwNywicHVyIjoiYmxvYl9pZCJ9fQ==--81952b8b3beddff88d086154d6fa19ab444bcffb/IMG_0496.jpeg)
+
+
+
+![IMG_0495.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a909eb40fd2ab110cba2bea955ff789039933ddb/IMG_0495.jpeg)
+
+  
+
